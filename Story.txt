@@ -1,0 +1,12 @@
+This is a Story about how I came to DevCodeCamp.
+------------------------------------------------
+
+A long time ago I purchased a computer. (Nearly 35 years ago) This computer was a Commodore 64.
+My brothers and I would spend hours programming in Basic.  I don't beleive we understood at the time how powerfull the idea of programming a computer was.  Well, at least I didn't.
+
+Two of my brothers went on to be software engineers and one became an IT instructor.  I myself went on to pursue a career in construction.  After a long an exhausting career in construction, I decided it was time to join my brothers in a career that was more mentally challenging than physical.
+
+The END
+
+	
+	
